@@ -20,4 +20,12 @@ $ bash ~/Scripts/Wraper_scripts/33_Rebuild_sit_plots_v4.sh /group/soranzo/manuel
 
 ------> Jupyter notebook: Figure_4_and_Figure_S4_ATU_plots.ipynb
 
+## 4. To plot the Alternative Transcript Usage (ATU) plots for the different haplotypes:
+
 ------> Jupyter notebook: Figure_4_and_Figure_S4_ATU_haplotypes_plots.ipynb
+
+## 5. MPRA snippets:
+
+------> Jupyter notebook: Figure_4_and_Figure_S4_MPRA_snippet_plots.ipynb
+
+------> copy the dependencies to Zenodo
