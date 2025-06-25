@@ -19,3 +19,5 @@ $ bash ~/Scripts/Wraper_scripts/33_Rebuild_sit_plots_v4.sh /group/soranzo/manuel
 ## 3. To plot the Alternative Transcript Usage (ATU) plots:
 
 ------> Jupyter notebook: Figure_4_and_Figure_S4_ATU_plots.ipynb
+
+------> Jupyter notebook: Figure_4_and_Figure_S4_ATU_haplotypes_plots.ipynb
