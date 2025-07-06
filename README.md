@@ -28,4 +28,11 @@ $ bash ~/Scripts/Wraper_scripts/33_Rebuild_sit_plots_v4.sh /group/soranzo/manuel
 
 ------> Jupyter notebook: Figure_4_and_Figure_S4_MPRA_snippet_plots.ipynb
 
-------> copy the dependencies to Zenodo
+## 6. The scripts and dependencies are in:
+
+/group/soranzo/manuel.tardaguila/Zenodo_V2F_paper/04_data_analysis/locus_plots/
+
+## 7. The figure panels and the scripts to generate them are in:
+
+
+
